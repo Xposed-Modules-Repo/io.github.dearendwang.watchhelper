@@ -13,3 +13,11 @@
 
 ## 反馈
 公众号：FindApps
+
+## 赞赏
+
+如果这个模块帮到了你，欢迎请我喝杯咖啡~
+
+捐赠完全自愿，与功能无关。
+
+<img src="images/donate.jpg" width="330" alt="END 的赞赏码">
